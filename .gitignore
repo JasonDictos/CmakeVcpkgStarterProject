@@ -1,1 +1,3 @@
-*.dir
+/build
+/installed
+/vcpkg_installed
